@@ -1,0 +1,31 @@
+
+p {
+    font-family:monospace, Arial, Helvetica, sans-serif; 
+    text-transform: capitalize; 
+  }  
+h1{
+        font-size: 40px;
+        color: red;
+        font-family: monospace,Arial, Helvetica, sans-serif;
+        text-align: center;
+        text-transform:uppercase;
+    }
+    
+/* for background image */
+ html{
+     background-image: url(bg.svg);
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+
+/*for background image*/
+   
+.foo{
+    border-radius: 60%;
+}
+
+#hoo{
+ width:300px;
+ border-radius: 20%;
+}
